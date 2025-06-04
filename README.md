@@ -1,6 +1,6 @@
-# Sentiment-Analysis-Tool
+## Sentiment-Analysis-Tool
 
-* ## Author *: SAKSHI AND TEAM
+ Author: SAKSHI AND TEAM
 
 (TEAM - JAYAL, MAYANK, RAJ, SAKSHI, VISHWAS)
 
