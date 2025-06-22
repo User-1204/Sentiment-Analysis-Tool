@@ -5,11 +5,11 @@
 (TEAM - JAYAL, MAYANK, RAJ, SAKSHI, VISHWAS)
 
 
-## 🧠 Sentiment & Emotion Analysis using NLP:
+## Sentiment & Emotion Analysis using NLP:
 This project is designed to analyze and visualize the sentiment and emotional tone of textual data using Natural Language Processing (NLP) techniques.By combining rule-based analysis and machine learning-based scoring, this tool delivers both quantitative and qualitative insights, making it useful for academic research, mental health journaling, brand sentiment tracking, or content evaluation.
 
 
-### 📌 Overview:
+### Overview:
 This project uses **Natural Language Processing (NLP)** to analyze sentiments and extract emotions from raw text. It features:
 * **VADER (NLTK)** for rule-based sentiment analysis
 * **TextBlob** for AI-based polarity scoring
@@ -18,7 +18,7 @@ This project uses **Natural Language Processing (NLP)** to analyze sentiments an
 * **Adaptive color theming** based on detected sentiment
 
 
-### ⚙️ How It Works:
+### How It Works:
 
 1. **Text Preprocessing**
    * Convert to lowercase
@@ -45,7 +45,7 @@ This project uses **Natural Language Processing (NLP)** to analyze sentiments an
    * Orange/Yellow for neutral
 
 
-### ▶️ How to Run:
+### How to Run:
 
 #### 1️. Setup
 Install required libraries:
@@ -75,7 +75,7 @@ nltk.download('vader_lexicon')
 * Ensure the text files are in **UTF-8 encoding** for proper processing
 
 
-### 📁 Project Structure:
+### Project Structure:
 
 ```
 📂 sentiment-analysis
@@ -88,7 +88,7 @@ nltk.download('vader_lexicon')
 ```
 
 
-### 🔍 Sample Output:
+### Sample Output:
 Sentiment Result: **Positive / Neutral / Negative**
 
 TextBlob Score: e.g., **Polarity = 0.52**
@@ -100,7 +100,7 @@ TextBlob Score: e.g., **Polarity = 0.52**
 -Emotion Pie Chart
 
 
-### 🎨 Color Scheme Explained:
+### Color Scheme Explained:
 
 | Sentiment | Primary Color | Theme        |
 | --------- | ------------- | ------------ |
@@ -111,7 +111,7 @@ TextBlob Score: e.g., **Polarity = 0.52**
 Visual themes adapt based on the final sentiment to enhance clarity.
 
 
-### 🌟 Features:
+### Features:
 -Text preprocessing & tokenization
 
 -Dual sentiment analysis (VADER + TextBlob)
@@ -127,7 +127,7 @@ Visual themes adapt based on the final sentiment to enhance clarity.
 -Best performance in **Google Colab** (no configuration required)
 
 
-### 🚀 Future Enhancements:
+### Future Enhancements:
 
 Add **BERT/Transformer-based models** for deep sentiment detection
 
@@ -138,7 +138,7 @@ Connect with **Twitter, Reddit** for real-time scraping
 Plug into **chatbots or mental health tools** for mood tracking
 
 
-### 📈 Applications:
+### Applications:
 
 Customer feedback analysis
 
@@ -151,7 +151,7 @@ Sentiment tracking in news or tweets
 Emotion-aware chatbot conversations
 
 
-### 🚀 Output:
+### Output:
 
 ![Image](https://github.com/user-attachments/assets/a54b3037-27b2-4a4e-93e1-41aba36f61b8)
 
